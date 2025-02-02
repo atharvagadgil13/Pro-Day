@@ -1,6 +1,3 @@
-Can't create, edit, or upload … Not enough storage.
-// script.js
-
 // Function to handle button click events
 function selectOption(option) {
     // Check which option was clicked
